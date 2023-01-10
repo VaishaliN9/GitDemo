@@ -26,6 +26,12 @@ public class GoogleScenario {
 			System.out.println(Sellist.getText());
 		}
 		System.out.println("Arch 1");
+		
+		System.out.println("Arch 2");
+		System.out.println("Arch 2");
+		System.out.println("Arch 2");
+		
+		
 
 	}
 
