@@ -23,6 +23,8 @@ public class handleRadioButton {
 		assertTrue(bmw.isSelected());
 		
 		System.out.println("Completed");
+		System.out.println("Completed 1");
+		System.out.println("Completed 2");
 
 	}
 
