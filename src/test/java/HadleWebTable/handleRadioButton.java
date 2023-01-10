@@ -25,6 +25,10 @@ public class handleRadioButton {
 		System.out.println("Completed");
 		System.out.println("Completed 1");
 		System.out.println("Completed 2");
+		
+		System.out.println("develop 1");
+		System.out.println("develop 2");
+		System.out.println("develop 3");
 
 	}
 
